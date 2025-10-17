@@ -8,6 +8,6 @@ This is a simple React app to test EIP-6963 wallet integration.
 ## Run
 
 ```bash
-yarn install
-yarn dev
+pnpm install
+pnpm dev
 ```
